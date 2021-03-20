@@ -1,0 +1,11 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="hamza.js"></script>
+	<title>web page </title>
+</head>
+<body>
+
+</body>
+</html>
